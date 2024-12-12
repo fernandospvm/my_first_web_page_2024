@@ -6,3 +6,5 @@ This is th repository fo ractivity III.
 
 - Added basic structure to the html file.
 - Added footer and header.
+- Added images for content section. 
+- Added content and menu.
