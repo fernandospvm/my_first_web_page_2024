@@ -1,6 +1,6 @@
 # my_first_web_page_2024
 
-This is th repository fo ractivity III.
+This is the repository for activity III.
 
 ## Actions
 
